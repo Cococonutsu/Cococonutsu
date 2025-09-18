@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 - [qwen-sft](https://github.com/Cococonutsu/qwen-sft)：基于GSM8K_zh数据集实现Qwen2-0.5B模型SFT（手写数据处理流程）
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cococonutsu)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cococonutsu)
-
-
