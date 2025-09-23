@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 # [AI🤖]
 - [qwen-sft](https://github.com/Cococonutsu/qwen-sft):基于GSM8K_zh数据集实现Qwen2-0.5B模型SFT（手写数据处理流程）
 - [qwen-ppo](https://github.com/Cococonutsu/qwen-ppo):手写完整 PPO 训练流程（采样→经验→训练），端到端训练 Qwen2.5-0.5B。
+- [qwen-grpo](https://github.com/Cococonutsu/qwen-grpo):手写完整 GRPO 训练流程（采样→经验→训练），基于GSM8K_zh数据集端到端训练 Qwen2.5-0.5B。
 
 
